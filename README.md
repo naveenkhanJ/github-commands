@@ -137,3 +137,13 @@ git log --oneline
 git add .
 git commit -m "Your message"
 git push origin main
+
+Common Commit Types:
+
+feat: A new feature.
+fix: A bug fix.
+docs: Documentation changes.
+style: Formatting, missing semicolons, etc.
+refactor: Code changes that neither fix a bug nor add a feature.
+test: Adding or correcting tests.
+chore: Updating build tasks, package manager configs
